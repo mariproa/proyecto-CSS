@@ -267,7 +267,7 @@ body {
   margin-right: auto;
   margin-top: 0;
   padding-top: 0;
-  background-image: url('/img/background.jpg');
+  background-image: url('../img/background.jpg');
   background-position-x: 0;
   background-position-y: 0;
   background-repeat: no-repeat;
